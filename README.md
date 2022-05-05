@@ -29,7 +29,7 @@
             <a href="https://github.com/mavargas101/calculate" target="_blank" rel="noreferrer"> <img src="calculate.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/mavargas101/calculate" target="_blank" rel="noreferrer""><img src="button1.png" alt="button to repository" height ="25px"></a> <a href="https://miguelvargas.dev/calculate" target="_blank" rel="noreferrer"><img src="button2.png" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              A basic 4 operation calculator made to practice using JavaScript with HTML and CSS.
+              A basic calculator made to practice using JavaScript.
             </p>
           </p>
         </td>
