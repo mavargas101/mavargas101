@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">A full stack software engineer from Philadelphia, PA.</h3>
 
-- 🌱 I’m currently learning **JavaScript** and **OOP**
-
 - 💼 Accepting new clients. Check out my [portfolio!](https://miguelvargas.dev/)
 
 - 📫 Email me at [contact@miguelvargas.dev](mailto:contact@miguelvargas.dev)
